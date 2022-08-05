@@ -1,6 +1,6 @@
 {
-  "name": "DataCapturingRobot",
-  "description": "Data capturing robot that reads data from Excel file and uploads that data in a web application and a desktop application.",
+  "name": "ClothingConsultantRobot",
+  "description": "Clothing consultant robot that reads accepts the name of the city from the user and based on the temperature of at that place at that time, it gives a clothing suggestion.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.13.0-preview]",
