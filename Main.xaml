@@ -297,7 +297,7 @@
                     <OutArgument x:TypeArguments="x:String">[outfitSuggestion]</OutArgument>
                   </Assign.To>
                   <Assign.Value>
-                    <InArgument x:TypeArguments="x:String">["It's mild outside. Please wear normal clothes."]</InArgument>
+                    <InArgument x:TypeArguments="x:String">It is mild outside. Please wear normal clothes.</InArgument>
                   </Assign.Value>
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
