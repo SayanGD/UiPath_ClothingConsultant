@@ -355,6 +355,6 @@
         </FlowStep.Next>
       </FlowStep>
     </Flowchart>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Display clothing suggestion" sap:VirtualizedContainerService.HintSize="704,85.33333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;The temperature in &quot;+cityName+&quot; is &quot;+temparureValue+&quot; degree Celsius. The weather is &quot;+weatherType+&quot;.&quot;+Environment.NewLine+outfitSuggestion+rainText]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Display clothing suggestion" sap:VirtualizedContainerService.HintSize="704,85.33333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;The temperature in &quot;+cityName+&quot; is &quot;+temparureValue+&quot; degrees Celsius. The weather is &quot;+weatherType+&quot;.&quot;+Environment.NewLine+outfitSuggestion+rainText]" />
   </Sequence>
 </Activity>
