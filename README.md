@@ -71,11 +71,11 @@ To do:
 
 
 ## Acknowledgements
-- This project was based on Leon Petrou's [Complete UiPath RPA Developer Course: Build 7 Robots]([https://www.example.com](https://www.udemy.com/course/complete-uipath-rpa-developer-course/))...
+- This project was based on Leon Petrou's [Complete UiPath RPA Developer Course: Build 7 Robots](https://www.example.com](https://www.udemy.com/course/complete-uipath-rpa-developer-course/)...
 
 
 ## Contact
-Created by [Sayan Ghosh Dastidar]([https://www.flynerd.pl/](https://www.linkedin.com/in/sayan-gd/)). Please feel free to contact me on LinkedIn!
+Created by [Sayan Ghosh Dastidar](https://www.flynerd.pl/](https://www.linkedin.com/in/sayan-gd/). Please feel free to contact me on LinkedIn!
 
 
 <!-- Optional -->
