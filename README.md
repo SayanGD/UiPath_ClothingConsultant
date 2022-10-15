@@ -4,70 +4,32 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+This project was developed by me while I was learning UiPath in the initial stages. The robot generates a popup on the screen that accepts a city name from the user. Then the robot looks up the weather of the city in the internet and depending upon it, gives a suitable clothing suggestion to the user on the screen.
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+- UiPath Studio
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+UiPath Studio needs to be installed. Install UiPath from the official page from the link [here](https://www.uipath.com/). Since the robot runs on Google Chrome, please ensure that the aforementioned browser is also installed on your system.
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+Once the robot is triggered from the UiPath studio, a popup will appear on the screen where the user will be asked to type in the city's name. Once that is done, the robot will open the browser, look for the weather of the city in Celsius (°C) and display another popup on the screen with the clothing suggestions.
 
 
 ## Project Status
-Project is: _complete_
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+Project is: _Complete_
 
 
 ## Acknowledgements
