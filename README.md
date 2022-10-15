@@ -33,7 +33,7 @@ Project is: _Complete_
 
 
 ## Acknowledgements
-- This project was based on Leon Petrou's [Complete UiPath RPA Developer Course: Build 7 Robots](https://www.udemy.com/course/complete-uipath-rpa-developer-course/)...
+This project was based on Leon Petrou's [Complete UiPath RPA Developer Course: Build 7 Robots](https://www.udemy.com/course/complete-uipath-rpa-developer-course/)...
 
 
 ## Contact
