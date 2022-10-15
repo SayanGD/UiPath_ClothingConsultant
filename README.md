@@ -1,5 +1,5 @@
 # UiPath_ClothingConsultant
-> This repository contains a small test project that I created while learning UiPath. The robot accepts a city name from the user and suggests an appropriate clothing depending upon the weather of that city.
+> This project is developed to build a robot that accepts a city name from the user and suggests an appropriate clothing depending upon the weather of that city.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -55,7 +55,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_
 
 
 ## Room for Improvement
@@ -71,14 +71,11 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was based on Leon Petrou's [Complete UiPath RPA Developer Course: Build 7 Robots]([https://www.example.com](https://www.udemy.com/course/complete-uipath-rpa-developer-course/))...
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Sayan Ghosh Dastidar]([https://www.flynerd.pl/](https://www.linkedin.com/in/sayan-gd/)). Please feel free to contact me on LinkedIn!
 
 
 <!-- Optional -->
